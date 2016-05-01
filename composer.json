@@ -1,6 +1,6 @@
 {
-    "name": "sheadawson/silverstripe-blocks",
-    "description": "An alternative to the SilverStripe Widgets module.",
+    "name": "torican/silverstripe-blocks",
+    "description": "fork of sheadawson/silverstripe-blocks. An alternative to the SilverStripe Widgets module.",
     "type": "silverstripe-module",
     "keywords": [
         "silverstripe",
